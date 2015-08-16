@@ -1,0 +1,35 @@
+{
+  "name": "isu",
+  "version": "1.0.0",
+  "description": "A self hosted issuu pdf viewer generator from cmd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Federico Scodelaro (pudymody)",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^0.23.1",
+    "gm": "^1.18.1",
+    "jade": "^1.11.0",
+    "yargs": "^3.19.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pudymody/Isu.git"
+  },
+  "keywords": [
+    "issuu",
+    "pdf",
+    "viewer",
+    "gm",
+    "self-hosted",
+    "self",
+    "cmd"
+  ],
+  "bugs": {
+    "url": "https://github.com/pudymody/Isu/issues"
+  },
+  "homepage": "https://github.com/pudymody/Isu#readme"
+}

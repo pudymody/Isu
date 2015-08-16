@@ -1,0 +1,22 @@
+doctype html
+html(lang="en")
+	head
+		meta(charset="UTF-8")
+		meta(name="viewport", content="width=device-width, user-scalable=no")
+		link(rel="stylesheet", href="style.css")
+		title= fileName
+	body
+		.wrapper
+			.section
+				img.page(src="imgs/#{cover}")
+
+			each group in pages
+				.section
+					each page in group
+						img.page(src="imgs/#{page}")
+
+			.section
+				img.page(src="imgs/#{back}")
+
+		.paginator
+		script(src="app.js")
