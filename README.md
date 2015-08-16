@@ -1,5 +1,5 @@
 # Isu
-A self hosted issuu pdf viewer generator from cmd. You can read more [here]()
+A self hosted issuu pdf viewer generator from cmd. You can read more [here](http://pudymody.github.io/2015/08/16/self-hosted-pdf-viewer/)
 
 # System requisites
 * [GraphicsMagick](http://www.graphicsmagick.org/)
