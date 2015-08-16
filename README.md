@@ -7,7 +7,7 @@ A self hosted issuu pdf viewer generator from cmd. You can read more [here]()
 
 # Installation
 ```sh
-npm install isu
+npm install -g isu
 ```
 
 # Usage
