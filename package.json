@@ -1,6 +1,6 @@
 {
   "name": "isu",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A self hosted issuu pdf viewer generator from cmd",
   "main": "index.js",
   "scripts": {
