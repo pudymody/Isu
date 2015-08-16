@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/pudymody/Isu/issues"
   },
-  "homepage": "https://github.com/pudymody/Isu#readme"
+  "homepage": "https://github.com/pudymody/Isu#readme",
+  "bin": {
+    "isu": "index.js"
+  }
 }

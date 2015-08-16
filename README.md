@@ -6,11 +6,11 @@ A self hosted issuu pdf viewer generator from cmd. You can read more [here]()
 * [Ghostscript pdf interpreter](http://ghostscript.com/download/gsdnld.html)
 
 # Installation
-```
-	npm install isu
+```sh
+npm install isu
 ```
 
 # Usage
-```
-	isu --file=pdf.pdf
+```sh
+isu --file=pdf.pdf
 ```
