@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var	gm = require('gm'),
 	argv = require('yargs').argv,
 	fs = require('fs-extra'),
