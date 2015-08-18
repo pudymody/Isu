@@ -17,3 +17,4 @@ npm install -g isu
 ```sh
 isu --file=pdf.pdf
 ```
+Now in the current dir, you will have inside a dist folder, everything you need to upload. Its a static page, so you can upload to github pages, dropbox, a server or read from the file itself, almost everywhere.
