@@ -1,5 +1,5 @@
 # Isu
-A self hosted issuu pdf viewer generator from cmd. You can read more [here](http://pudymody.github.io/2015/08/16/self-hosted-pdf-viewer.html)
+A self hosted issuu pdf viewer generator from cmd. You can read more [here](https://pudymody.github.io/blog/2015-08-16-self-hosted-pdf-viewer)
 
 # Example
 This app builds you a pdf viewer like the one in issuu from the given file. You can see a demo [here](http://pudymody.github.io/Isu)
